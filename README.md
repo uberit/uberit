@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Welcome to the UberIT Feature Requests and Roadmap board.
-The board was created as a result of customer requests for a place to post and vote on feature requests as well see what the UberIT development team is working on.
+Welcome to the UberIT "Uber for Tech Support": On-Demand Tech Support!
 
 This is an experiment that might not work out in the long run but we'd like to see if it can!
 
